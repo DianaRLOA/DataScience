@@ -1,2 +1,2 @@
 # Hello World
-Extracción de informació desde un sitio web.
+Extracción de información desde un sitio web.
